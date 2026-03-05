@@ -1,3 +1,10 @@
 1-Create a new project on your local machine,
 then push it your remote repo.
 
+2-Create two branches (dev & test) then create one 
+file on each branch, and push this branches to the remote repo.
+
+pranch one
+
+3-Merge this changes on Main branch locally and then push it to your 
+remote main branch.
